@@ -1,6 +1,6 @@
 ﻿namespace Sapper_2
 {
-    partial class Form1
+    partial class FormMain
     {
         /// <summary>
         /// Обязательная переменная конструктора.
