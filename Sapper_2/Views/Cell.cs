@@ -16,7 +16,7 @@ namespace Sapper_2.Views
             this.i = i;
             this.j = j;
         }
-
+//
         #endregion
 
         #region Properties
