@@ -11,8 +11,9 @@ namespace Sapper_2.Controllers
     public static class Game
     {
         #region Variables
-        private static int w = 20;
-        private static int h = 50;
+        private static int w = 10;
+        private static int h = 10;
+
         public static CellState[,] mineField = new CellState[h, w];
 
         #endregion
